@@ -1,0 +1,13 @@
+#container{
+    padding: 20px;
+    margin: 5%;
+    border: dotted;color: blueviolet;
+    font-style: italic;
+    font-weight: bolder;
+
+
+}
+#container2{
+    border:solid;color:blue;
+}
+
